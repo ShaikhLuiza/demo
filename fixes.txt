@@ -5,3 +5,4 @@ one more
 one more
 2024 is comming
 another fixes for pink mode
+another fix msg for purple mode
